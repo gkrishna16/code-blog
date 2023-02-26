@@ -1,0 +1,14 @@
+.pg {
+  position: absolute;
+  left: 20%;
+}
+
+.pgHdr {
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .pg {
+    left: 0;
+  }
+}
